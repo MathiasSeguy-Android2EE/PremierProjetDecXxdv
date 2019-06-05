@@ -1,1 +1,1 @@
-include ':app', ':mysmsreceiver'
+include ':app'

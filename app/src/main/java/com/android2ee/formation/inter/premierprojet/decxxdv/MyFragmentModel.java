@@ -33,8 +33,8 @@ package com.android2ee.formation.inter.premierprojet.decxxdv;
 
 import android.annotation.TargetApi;
 import android.os.Build;
-import android.support.annotation.NonNull;
-import android.support.v4.app.FragmentManager;
+import androidx.annotation.NonNull;
+import androidx.fragment.app.FragmentManager;
 import android.widget.Toast;
 
 import java.util.ArrayList;
