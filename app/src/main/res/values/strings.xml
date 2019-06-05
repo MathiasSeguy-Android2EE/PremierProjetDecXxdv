@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PremierProjetDecXxdv</string>
+    <string name="titre">Titre</string>
+    <string name="edtmessage_hint">Votre texte s\'écrit ici</string>
+    <string name="btnadd_label">Ajouter</string>
+    <string name="alertdialog_genericmessage">Do you want to copy paste the text ?</string>
+    <string name="alertdialog_specificmessage">Do you want to copy paste %1$s ?</string>
+    <string name="alertdialog_ok">Oui</string>
+    <string name="alertdialog_nok">Non</string>
+    <string name="toast_action_abort">Copie annulée</string>
+</resources>
